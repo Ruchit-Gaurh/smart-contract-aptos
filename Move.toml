@@ -1,0 +1,16 @@
+[package]
+name = "Movee"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x21410501c62847a82f6c767ead5126c5f90702d2a9295df29b07b96a3dfe0ed5"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]

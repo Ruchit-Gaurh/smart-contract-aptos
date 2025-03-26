@@ -56,3 +56,6 @@ public fun claim_rewards(user: &signer) acquires Stake
 ⸻
 
 By building upon this initial contract, developers and users can explore yield farming on Aptos and contribute to the growing DeFi ecosystem.
+
+## Contract Hash
+0xf049d43bbd2280ac2cfed893cabca3370ec0dad090bbd556ae6df7f10ac017e9
